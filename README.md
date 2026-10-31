@@ -256,16 +256,29 @@ GSoC 2026 provided me with practical experience in developing a real-world appli
 
 ## 5. Download the App and Share Your Experience
 
-<p>
+<div align="center">
   <a href="https://play.google.com/store/apps/details?id=org.aossie.move">
-    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80" style="vertical-align: middle;">
+    <img
+      alt="Get it on Google Play"
+      src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+      height="80"
+      style="vertical-align: middle;"
+    >
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/AOSSIE-Org/MoveYourBody/releases/tag/v1.0.0%2B3">
-    <img alt="GitHub Release" src="https://img.shields.io/badge/Download-GitHub%20Release-blue?logo=github&style=for-the-badge" height="40" style="vertical-align: middle;">
+    <img
+      alt="GitHub Release"
+      src="https://img.shields.io/badge/GitHub-Download%20Release-blue?logo=github&style=for-the-badge"
+      height="40"
+      style="vertical-align: middle;"
+    >
   </a>
-</p>
+</div>
 
-I would appreciate it if you could try the application and share your feedback and experience.
+<p align="center">
+  I would appreciate it if you could try the application and share your feedback and experience.
+</p>
 
 ## 6. Conclusion
 
