@@ -26,6 +26,7 @@
 
 **Submitted GSoC'26 Proposal:** [Link](https://docs.google.com/document/d/1T5s-sog4MyU4D-vZQ1IxQl4BZKOYcBh2RQfVZWAhdB0/edit?tab=t.0#heading=h.losp2ob4u62u)
 
+**Mentors:** [Madhav](https://github.com/M4dhav) and [Bruno](https://github.com/Zahnentferner)
 
 ## Project Overview
 
@@ -263,4 +264,8 @@ GSoC 2026 provided me with practical experience in developing a real-world appli
 
 ## 5. Conclusion
 
-GSoC 2026 has been a wonderful learning experience, giving me the opportunity to work on a real-world project, learn from talented people, and grow as a developer. I am grateful to AOSSIE and Google Summer of Code for providing me with this opportunity but this is not the end. I will continue contributing to AOSSIE and its projects and keep my open-source journey going. Open source gives us the opportunity to collaborate with talented minds across the world, learn from real-world experiences, and contribute something meaningful. Once again, thank you, AOSSIE and GSoC, for making this summer memorable.
+GSoC 2026 has been a wonderful learning experience, giving me the opportunity to work on a real-world project, learn from talented people, and grow as a developer. I am grateful to AOSSIE and Google Summer of Code for this opportunity, this is not the end, as I will continue contributing to AOSSIE and its projects and keep my open-source journey going.
+
+I sincerely thank my mentor, Madhav, for always being there with his guidance and valuable feedback throughout my GSoC journey. Whenever I had doubts or needed help, his response was always, let's meet.
+
+### Thank You 🥹
