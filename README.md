@@ -8,25 +8,18 @@
 
 # Google Summer of Code 2026 End-Term Evaluation
 
-**Project:** MoveYourBody: AI Powered Personalized Fitness and Workout Application
+## Project and Contributor Information
 
-**Organization:** [Australian Open Source Software Innovation and Education (AOSSIE)](https://aossie.org/en)
-
-**Project Size:** Large (350+ hours)
-
-**Name:** Vaibhav Aryan
-
-**GitHub:** [DecodeX15](https://github.com/DecodeX15)
-
-**Social Profiles:** [Linkedin](https://www.linkedin.com/in/vaibhav-aryan-00650b287)
-
-**Project Repository:** [Link](https://github.com/AOSSIE-Org/MoveYourBody)
-
-**GSoC Project Page:** [Link](https://summerofcode.withgoogle.com/programs/2026/projects/GS2OzCEu)
-
-**Submitted GSoC'26 Proposal:** [Link](https://docs.google.com/document/d/1T5s-sog4MyU4D-vZQ1IxQl4BZKOYcBh2RQfVZWAhdB0/edit?tab=t.0#heading=h.losp2ob4u62u)
-
-**Mentors:** [Madhav](https://github.com/M4dhav) and [Bruno](https://github.com/Zahnentferner)
+- **Project:** MoveYourBody: AI-Powered Personalized Fitness and Workout Application
+- **Organization:** [Australian Open Source Software Innovation and Education (AOSSIE)](https://aossie.org/en)
+- **Project Size:** Large (350+ hours)
+- **Contributor:** Vaibhav Aryan
+- **GitHub:** [DecodeX15](https://github.com/DecodeX15)
+- **LinkedIn:** [Vaibhav Aryan](https://www.linkedin.com/in/vaibhav-aryan-00650b287)
+- **Project Repository:** [MoveYourBody](https://github.com/AOSSIE-Org/MoveYourBody)
+- **GSoC Project Page:** [View Project](https://summerofcode.withgoogle.com/programs/2026/projects/GS2OzCEu)
+- **Submitted GSoC 2026 Proposal:** [View Proposal](https://docs.google.com/document/d/1T5s-sog4MyU4D-vZQ1IxQl4BZKOYcBh2RQfVZWAhdB0/edit)
+- **Mentors:** [Madhav](https://github.com/M4dhav) and [Bruno](https://github.com/Zahnentferner)
 
 ## Project Overview
 
