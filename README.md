@@ -16,9 +16,10 @@
 - **Contributor:** Vaibhav Aryan
 - **GitHub:** [DecodeX15](https://github.com/DecodeX15)
 - **LinkedIn:** [Vaibhav Aryan](https://www.linkedin.com/in/vaibhav-aryan-00650b287)
-- **Project Repository:** [MoveYourBody](https://github.com/AOSSIE-Org/MoveYourBody)
-- **GSoC Project Page:** [View Project](https://summerofcode.withgoogle.com/programs/2026/projects/GS2OzCEu)
-- **Submitted GSoC 2026 Proposal:** [View Proposal](https://docs.google.com/document/d/1T5s-sog4MyU4D-vZQ1IxQl4BZKOYcBh2RQfVZWAhdB0/edit)
+- **Project Repository:** [Link](https://github.com/AOSSIE-Org/MoveYourBody)
+- **GSoC Project Page:** [Link](https://summerofcode.withgoogle.com/programs/2026/projects/GS2OzCEu)
+- **Submitted GSoC 2026 Proposal:** [Link](https://docs.google.com/document/d/1T5s-sog4MyU4D-vZQ1IxQl4BZKOYcBh2RQfVZWAhdB0/edit)
+- **Demo Video:** [Link](https://drive.google.com/file/d/1U1Iw_MDQr4QUwjLnxCJkDFdOCrz_6hDF/view?usp=sharing)
 - **Mentors:** [Madhav](https://github.com/M4dhav) and [Bruno](https://github.com/Zahnentferner)
 
 ## Project Overview
