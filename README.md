@@ -256,29 +256,24 @@ GSoC 2026 provided me with practical experience in developing a real-world appli
 
 ## 5. Download the App and Share Your Experience
 
-<div align="center">
-  <a href="https://play.google.com/store/apps/details?id=org.aossie.move">
-    <img
-      alt="Get it on Google Play"
-      src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-      height="80"
-      style="vertical-align: middle;"
-    >
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/AOSSIE-Org/MoveYourBody/releases/tag/v1.0.0%2B3">
-    <img
-      alt="GitHub Release"
-      src="https://img.shields.io/badge/GitHub-Download%20Release-blue?logo=github&style=for-the-badge"
-      height="40"
-      style="vertical-align: middle;"
-    >
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://play.google.com/store/apps/details?id=org.aossie.move">
+        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+             height="80" alt="Get it on Google Play">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/AOSSIE-Org/MoveYourBody/releases/tag/v1.0.0%2B3">
+        <img src="https://img.shields.io/badge/GitHub-Download%20Release-blue?logo=github&style=for-the-badge"
+             alt="GitHub Release">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  I would appreciate it if you could try the application and share your feedback and experience.
-</p>
+<p>I would appreciate it if you could try the application and share your feedback and experience.</p>
 
 ## 6. Conclusion
 
