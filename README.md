@@ -254,7 +254,7 @@ GSoC 2026 provided me with practical experience in developing a real-world appli
 
 - Learning how AI tools can make writing code easier and faster, while understanding that reviewing, understanding, testing, and validating generated code remain essential responsibilities of a developer, because at the end I am responsible for the code I write and submit.
 
-## 6. Download the App and Share Your Experience
+## 5. Download the App and Share Your Experience
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=org.aossie.move">
@@ -267,7 +267,7 @@ GSoC 2026 provided me with practical experience in developing a real-world appli
 
 I would appreciate it if you could try the application and share your feedback and experience.
 
-## 5. Conclusion
+## 6. Conclusion
 
 GSoC 2026 has been a wonderful learning experience, giving me the opportunity to work on a real-world project, learn from talented people, and grow as a developer. I am grateful to AOSSIE and Google Summer of Code for this opportunity, this is not the end, as I will continue contributing to AOSSIE and its projects and keep my open-source journey going.
 
