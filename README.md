@@ -16,15 +16,15 @@
 
 **Name:** Vaibhav Aryan
 
-**GitHub:** https://github.com/DecodeX15
+**GitHub:** [DecodeX15](https://github.com/DecodeX15)
 
-**LinkedIn:** https://www.linkedin.com/in/vaibhav-aryan-00650b287
+**Social Profiles:** [Linkedin](https://www.linkedin.com/in/vaibhav-aryan-00650b287)
 
-**Project Repository:** https://github.com/AOSSIE-Org/MoveYourBody
+**Project Repository:** [Link](https://github.com/AOSSIE-Org/MoveYourBody)
 
-**GSoC Project Page:** https://summerofcode.withgoogle.com/programs/2026/projects/GS2OzCEu
+**GSoC Project Page:** [Link](https://summerofcode.withgoogle.com/programs/2026/projects/GS2OzCEu)
 
-**Submitted GSoC Proposal:** https://docs.google.com/document/d/1T5s-sog4MyU4D-vZQ1IxQl4BZKOYcBh2RQfVZWAhdB0/edit?tab=t.0#heading=h.losp2ob4u62u
+**Submitted GSoC'26 Proposal:** [Link](https://docs.google.com/document/d/1T5s-sog4MyU4D-vZQ1IxQl4BZKOYcBh2RQfVZWAhdB0/edit?tab=t.0#heading=h.losp2ob4u62u)
 
 
 ## Project Overview
